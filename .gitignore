@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.idea
+dev.env
+dev-nb.*
+*.pk[lz]
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+**/_data/
+**/tf_logs_*/
